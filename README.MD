@@ -6,5 +6,5 @@ Program ini hanya menggunakan HTML dan CSS sederhana dalam pembuatannya.
 - Nama        : Antonio Passaka Adi Wijaya
 - NIM         : 1201204186
 - Jurusan     : Teknik Industri
-- NIM GDSC    : 220020037
+- ID GDSC     : 220020037
 - Universitas : Telkom University
